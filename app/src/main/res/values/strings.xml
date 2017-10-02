@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IndoorPosition</string>
+    <string name="signed_in_main">Welcome !</string>
+</resources>
